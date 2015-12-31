@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  image: MyString
+  make_year: 1
+  make_car: MyString
+  model: MyString
+  price: 
+  price: 
+
+two:
+  image: MyString
+  make_year: 1
+  make_car: MyString
+  model: MyString
+  price: 
+  price: 
