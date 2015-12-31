@@ -1,0 +1,2 @@
+module CardetailsHelper
+end
